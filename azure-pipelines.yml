@@ -11,7 +11,7 @@ pool:
 
 variables:
   solution: '**/*.sln'
-  buildPlatform: 'AnyCpu '
+  buildPlatform: 'AnyCPU '
   buildConfiguration: 'Release'
 
 steps:
